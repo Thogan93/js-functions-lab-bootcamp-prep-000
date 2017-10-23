@@ -2,12 +2,9 @@
 
 
 function happyHolidays() {
-console.log('Happy Holidays!')
+return ('Happy Holidays!')
 
 }
 happyHolidays()
 
 
-function happyHolidaysTo(name) {
-
-}
