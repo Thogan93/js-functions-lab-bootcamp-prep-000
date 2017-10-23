@@ -1,3 +1,13 @@
+
+
+
 function happyHolidays() {
-console.log("Happy Holidays!")
+console.log('Happy Holidays!')
+
+}
+happyHolidays()
+
+
+function happyHolidaysTo(name) {
+  
 }
