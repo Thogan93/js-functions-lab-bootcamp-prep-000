@@ -1,4 +1,4 @@
-name = "Tim"
+
 
 function happyHolidays() {
 return ("Happy holidays!")
@@ -7,14 +7,8 @@ return ("Happy holidays!")
 happyHolidays()
 
 function happyHolidaysTo(name) {
+  name = 'Tim'
   return (`Happy holidays, ${name}`)
 
 }
-
-function happyHolidaysTo(holiday, name) {
-
-}
-
-function holidayCountdown (holidays, days) {
-
-}
+happyHolidaysTo()
