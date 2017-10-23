@@ -6,5 +6,3 @@ return ('Happy Holidays!')
 
 }
 happyHolidays()
-
-
